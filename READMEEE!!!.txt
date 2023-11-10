@@ -27,11 +27,11 @@ password : leader
 1. Dashboard - Summary of production progress & history
 2. Customer - Customer data, add & update
 3. Project - Customer requests for product quantity to be produced
-4. Planning - Production plan from customer request projects, contains shiftment, production date and target
-5. Shiftment - Shiftment that works on the production process, contains the Leader (Staff Head) with production date and target
+4. Planning - Production plan from customer request projects, including shiftment, production date and target
+5. Shiftment - Shiftment that works on the production process, including the Leader (Staff Head) with production date and target
 6. Leader -  Leader data (Staff Head) add & update
-7. Production - The production process for each Shiftment, contains production planning, the machines and materials used in the production process
+7. Production - The production process for each Shiftment, including production planning, the machines and materials used in the production process
 8. Machine - Machine data, status, and history of machine used
 9. Material - Material data, stock, and history of material used
-10. Report - Production report, contains sorting of production result (finished goods & waste)
+10. Report - Production report, including sorting of production result (finished goods & waste)
 11. Warehouse - Production progress from quantity request with total finished goods from completed production
