@@ -1,6 +1,6 @@
-# Production-Management-System
-**Source code for production management systems with CodeIgniter, PHP & MySql.**
-The case of this system is for **factory production**, system focuses on production planning, production processes, machines and materials used and production reports.
+# About
+**Production management systems (CodeIgniter)**
+This is a website based system, the case of this system is for **factory production**, system focuses on production planning, production processes, machines and materials used and production reports.
 
 # Features
 - **Dashboard** - Summary of production progress & history </br>
@@ -16,8 +16,8 @@ The case of this system is for **factory production**, system focuses on product
 - **Warehouse** - Production progress from quantity request with total finished goods from completed production</br>
 
 # Requirement
-- **XAMPP**
-- **PHP** (version 8.0.25, not tested with other version yet)
+- **XAMPP** with **PHP** (version 8.0.25, not tested with other version yet)
+- **Browser** (tested in google chrome)
 
 # How to install
 - Copy and extract this folder to ``xampp/htdocs``
