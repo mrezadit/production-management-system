@@ -30,22 +30,27 @@ The case of this system is for **factory production**, system focuses on product
 <picture>
     <img src="ss/0.PNG" alt="Login">
 </picture>
+
 - **Dashboard**
 <picture>
     <img src="ss/1.PNG" alt="Dashboard">
 </picture>
+
 - **Planning**
 <picture>
     <img src="ss/2.PNG" alt="Planning">
 </picture>
+
 - **Production**
 <picture>
     <img src="ss/3.PNG" alt="Production">
 </picture>
+
 - **Machine**
 <picture>
-    <img src="ss/4.PNG" alt="Dashboard">
+    <img style="width:200px" src="ss/4.PNG" alt="Dashboard">
 </picture>
+
 - **Reports**
 <picture>
     <img src="ss/5.PNG" alt="Reports">
