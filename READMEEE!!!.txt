@@ -1,7 +1,7 @@
 Production Management System (CodeIgniter) by mrezadit
 See other systems at https://github.com/mrezadit
 This system was created at 2022 for case studies and learning purposes
-If you have any questions, feel free to contact me at mrezadit@gmail.com
+If you have any suggestions, please contact me at mrezadit@gmail.com
 
 // Login information
 ADMIN (Full Access)
