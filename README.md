@@ -1,6 +1,6 @@
 # About
 **Production management systems (CodeIgniter)**
-This is a website based system, the case of this system is for **factory production**, system focuses on production planning, production processes, machines and materials used and production reports.
+This is a website based system, the case of this system is for **factory production**, system focuses on production planning, production processes, machines and materials used and production reports. This system was created for case studies and learning purposes.
 
 # Features
 - **Dashboard** - Summary of production progress & history </br>
