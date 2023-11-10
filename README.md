@@ -16,11 +16,12 @@ This is a website based system, the case of this system is for **factory product
 - **Warehouse** - Production progress from quantity request with total finished goods from completed production</br>
 
 # Requirement
-- **XAMPP** with **PHP** (version 8.0.25, not tested with other version yet)
+- **XAMPP** installed with **PHP** (version 8.0.25, not tested with other version yet)
 - **Browser** (tested in google chrome)
 
 # How to install
 - Copy and extract zip file to ``xampp/htdocs``
+- Open XAMPP Control Panel, then start on MySql and Apache
 - Open ``localhost/phpmyadmin`` in a browser
 - Create database with the name ``db_production``
 - Import database file from ``/db/db_pengiriman.sql``
