@@ -20,10 +20,12 @@ This is a website based system, the case of this system is for **factory product
 - **Browser** (tested in google chrome)
 
 # How to install
-- Copy and extract this folder to ``xampp/htdocs``
-- Create database with the name ``db_production`` in phpmyadmin
-- Import database file from ``/db/db_production.sql``
-- Run this system in a browser, then input login information from ``READMEEE!!.txt``
+- Copy and extract zip file to ``xampp/htdocs``
+- Open ``localhost/phpmyadmin`` in a browser
+- Create database with the name ``db_production``
+- Import database file from ``/db/db_pengiriman.sql``
+- Run this system in a browser ``localhost/production-management-system-main``
+- Input login information from ``READMEEE!!.txt``
 
 # Screenshot
 - **Login**
