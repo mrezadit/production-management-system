@@ -6,13 +6,13 @@ The case of this system is for **factory production**, system focuses on product
 - **Dashboard** - Summary of production progress & history </br>
 - **Customer** - Customer data, add & update </br>
 - **Project** - Customer requests for product quantity to be produced</br>
-- **Planning** - Production plan from customer request projects, include shiftment, production date and target</br>
-- **Shiftment**- Shiftment that works on the production process, include the Leader (Staff Head) with production date and target</br>
+- **Planning** - Production plan from customer request projects, includes shiftment, production date and target</br>
+- **Shiftment**- Shiftment that works on the production process, includes the Leader (Staff Head) with production date and target</br>
 - **Leader** -  Leader data (Staff Head) add & update</br>
-- **Production** - The production process for each Shiftment, include production planning, the machines and materials used in the production process</br>
+- **Production** - The production process for each Shiftment, includes production planning, the machines and materials used in the production process</br>
 - **Machine** - Machine data, status, and history of machine used</br>
 - **Material** - Material data, stock, and history of material used</br>
-- **Report** - Production report, contains sorting of production result (finished goods & waste)</br>
+- **Report** - Production report, includes sorting of production result (finished goods & waste)</br>
 - **Warehouse** - Production progress from quantity request with total finished goods from completed production</br>
 
 # Requirement
